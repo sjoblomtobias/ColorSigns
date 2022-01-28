@@ -4,5 +4,5 @@ main: co.homebrewd.colorsigns.ColorSigns
 prefix: ColorSigns
 load: STARTUP
 authors: [ homebrewd ]
-description: A plugin that makes color codes work on signs.
+description: Color codes on signs.
 website: https://homebrewd.co/
